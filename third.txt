@@ -1,1 +1,7 @@
-this is Third fileI love Git
+public class Third{
+
+public static void main(String[] args){
+
+Sysout.out.println("This is Third file and I love Git");
+}
+}
