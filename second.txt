@@ -1,0 +1,4 @@
+Hi thios is git class and we are studing git now
+ now i am adding this statement
+ and this is the third statement
+ and this is the fourth statement
